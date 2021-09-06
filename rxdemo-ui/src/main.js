@@ -6,7 +6,7 @@ Promise.config({
     wForgottenReturn: false
   }
 });
-
+// Testing bhaskar
 export function configure(aurelia) {
 
   function calculateEnvironment(href) {
